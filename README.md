@@ -109,7 +109,8 @@ if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
 </p>
 
 # Live API
-* https://manns-api.herokuapp.com
+* https://api-mannz.herokuapp.com
+
 - Gunakan Parameter Yg Sama Yak :)
 - 100 % Open Source
 - Like This Repository Okeee 🎉
